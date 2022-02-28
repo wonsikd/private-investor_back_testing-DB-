@@ -6,11 +6,11 @@
  main_file : DB_stock_bactesting_final
  실제 백테스팅 및 시각화를 한 코드입니다. 전략이 총 3개로 나뉘어져 있어 유의사항을 차모하여 파일을 실행하시길 바랍니다.
  
- sub_file : crawling
+ sub_file : naver_stock_crawling
  네이버 종목토론 게시글을 크롤링해오는 코드입니다. / 데이터를 가져오는데 시간이 오래걸리므로 필요시
  dnstlrdl1@naver.com 으로 메일 부탁드립니다.
  
- sub_file : 마르코프
+ sub_file : marcov_hidden_stat_model_for_finance
  히든 마르코프 모델을 이용하여 국면을 측정한 코드입니다.
  
  
