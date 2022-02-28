@@ -10,7 +10,7 @@
  네이버 종목토론 게시글을 크롤링해오는 코드입니다. / 데이터를 가져오는데 시간이 오래걸리므로 필요시
  dnstlrdl1@naver.com 으로 메일 부탁드립니다.
  
- sub_file : marcov_hidden_stat_model_for_finance
+ sub_file : marcov_hidden_stat_model
  히든 마르코프 모델을 이용하여 국면을 측정한 코드입니다.
  
  
