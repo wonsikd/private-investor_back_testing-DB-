@@ -3,14 +3,14 @@
 본 프로젝트는 DB 금융 공모전을 위해 제작된 파일입니다. 자세한 내용은 논문 PDF를 참고하시길 바라겠습니다.
 
 # 파일설명
- main_file : DB_stock_bactesting_final
+ main_file : DB_stock_bactesting_final / (필요 파일 : k_df_score.xlsx, korea_price.xlsx, 4regimes.csv,코스피 자금.csv )
  실제 백테스팅 및 시각화를 한 코드입니다. 전략이 총 3개로 나뉘어져 있어 유의사항을 차모하여 파일을 실행하시길 바랍니다.
  
- sub_file : naver_stock_crawling
+ sub_file : naver_stock_crawling (종목마다 csv파일로 게시글 저장)
  네이버 종목토론 게시글을 크롤링해오는 코드입니다. / 데이터를 가져오는데 시간이 오래걸리므로 필요시
  dnnstlrdl1@naver.com 으로 메일 부탁드립니다.
  
- sub_file : marcov_hidden_stat_model
+ sub_file : marcov_hidden_stat_model / (필요 파일 : KOSPI1995)
  히든 마르코프 모델을 이용하여 국면을 측정한 코드입니다.
  
  
@@ -27,6 +27,8 @@
  
  data_file : 코스피 자금.csv
  KRX에서 가져온 코스피 개인 거래대금 데이터입니다.
+ 
+ data_file : KOSPI1995.xlsx
 
 자세한내용은 첨부된 논문을 참고하시면 될거 같습니다.
 감사합니다.
