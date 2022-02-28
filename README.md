@@ -1,6 +1,6 @@
 # private-investor_back_testing-DB-
 
-본 프로젝트는 DB 금융 공모전을 위해 제작된 파일입니다.
+본 프로젝트는 DB 금융 공모전을 위해 제작된 파일입니다. 자세한 내용은 논문 PDF를 참고하시길 바라겠습니다.
 
 # 파일설명
  main_file : DB_stock_bactesting_final
